@@ -1,4 +1,4 @@
-# mongodb_playground_methods
+# mongodb playground methods
 
 Insert, Delete, Update and Read Methods in MongoDB without Mongoose
 
